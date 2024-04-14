@@ -1,2 +1,2 @@
-# linux-first-commends
+# linux-first-commands
 linux-first-homework
